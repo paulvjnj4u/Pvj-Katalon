@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing career page</description>
+   <name>careerspage.com</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5ff8dc7-6e55-4a1d-b0fb-538d1656a9a7</testCaseGuid>
+</TestCaseEntity>
